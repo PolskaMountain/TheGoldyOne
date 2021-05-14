@@ -1,5 +1,5 @@
 ## Hey there! 👋
----
+
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=TheGoldyOne&show_icons=true&hide_border=true&theme=dark" />
 
@@ -25,5 +25,6 @@ print(f"Welcome to my GitHub profile! Im, {me.name}")
 
 
 
+
 ```
----
+
