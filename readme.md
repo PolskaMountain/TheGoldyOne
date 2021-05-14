@@ -15,7 +15,7 @@ class Person:
   def __init__(self, name, age, country, job):
     self.name = name
     self.age = age
-    self.country = Country
+    self.country = country
     self.job = job
 
 me = Person("Jakub",18,"Poland","Student")
